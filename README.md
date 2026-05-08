@@ -93,4 +93,16 @@ Built on a **relational star schema** sourced from `bank_database`, including:
 Based on the publicly available **Czechoslovakia Bank Financial Dataset** — 
 a benchmark dataset widely used for financial analytics and data science projects.
 
+### 👤 Author
+Sayali Sutar 
 
+[GitHub](https://github.com/sayalisutar1001-DA/Czechoslovakia-Banking-Financial-Analysis)  
+[LinkedIn](https://www.linkedin.com/in/sayali-sutar-0167273b4)
+
+## 📁 Project Structure
+
+- data/        → Contains dataset files  
+- sql/         → SQL scripts for analysis  
+- dashboard/   → Power BI dashboard file (.pbix)  
+- images/      → Dashboard screenshots  
+- README.md    → Project documentation  
